@@ -10,3 +10,16 @@
   padding: 50px 10px 50px;
   border: 1px solid #000;
 }
+
+.content-nest{
+  background-color: #b8860b;
+  padding: 5px;
+  border: 1px solid #000;
+}
+
+.content-nest .content{
+  text-align: center;
+  background-color: #ff0000;
+  padding: 45px 5px 45px;
+  border: 1px solid #fff;
+}
